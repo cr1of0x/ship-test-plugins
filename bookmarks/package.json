@@ -1,0 +1,13 @@
+{
+  "name": "ship-plugin-bookmarks",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "apps/api": {
+      "nanoid": "5.1.5"
+    },
+    "apps/web": {
+      "timeago.js": "4.0.2"
+    }
+  }
+}
